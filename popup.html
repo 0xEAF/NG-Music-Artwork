@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Settings - NG Music Artwork</title>
+    <style>
+        body {
+            background: 
+                linear-gradient(
+                    rgba(255,255,255,0.9),
+                    rgba(255,255,255,0.8)
+                ),
+                url('icons/icon.png') no-repeat center center;
+
+            background-size: cover;
+            background-attachment: fixed;
+            font-family: Arial;
+            width: 200px;
+            padding: 10px;
+            color: black;
+        }
+
+        label {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        span {
+            font-size: 0.8em;
+        }
+
+        a {
+            color: black;
+        }
+
+        h2 {
+            margin: 0;
+        }
+
+        div {
+            display: flex;
+            flex-direction: row;
+        }
+    </style>
+    </head>
+<body>
+    <h2>NG Music Artwork</h2>
+    <span>Made by <a href="https://xeaf.dev/">xeaf</a></span>
+    <h3>Settings</h3>
+
+    <div>
+        <input type="checkbox" id="enableExtension">
+        <label for="enableExtension">Enable extension</label>
+
+        <input type="checkbox" id="forceBestQuality">
+        <label for="forceBestQuality">Force best quality</label>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>
