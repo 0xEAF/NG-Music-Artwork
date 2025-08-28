@@ -20,7 +20,7 @@ It is unfortunately not possible for me to publish it to the Google Chrome Webst
 
 The only way to get it is this one:
 
-1. Open `chrome://extensions`
+1. Open [`chrome://extensions`](chrome://extensions)
 2. Enable "Developer mode"
 3. Download the [latest CRX files from the releases](https://github.com/0xEAF/NG-Music-Artwork/releases)
 4. Drag and drop the CRX file into the Chrome extension manager window
