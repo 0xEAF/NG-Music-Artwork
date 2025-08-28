@@ -8,7 +8,7 @@ This extension adds the music artwork to the audio listen page (because why isn'
 
 The extension is published on the Mozilla Add-Ons store:
 
-https://addons.mozilla.org/fr/firefox/addon/ng-music-artwork/
+https://addons.mozilla.org/en-US/firefox/addon/ng-music-artwork/
 
 > ### NOTE
 > The extension is currently **being verified by the folks at Mozilla**. For that time, the link will not work.
