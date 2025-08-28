@@ -29,7 +29,8 @@ The only way to get it is this one:
 7. Click the triple dots and select "keep this extension"
 8. Disable developer mode
 
-NOTE: You will have to do this at each update, and there is no way to automatically check for one or update the extension automatically.
+> ### NOTE
+> You will have to do this at each update, and there is no way to automatically check for one or update the extension automatically.
 
 ### For Opera and Edge
 
