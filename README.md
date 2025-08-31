@@ -1,4 +1,4 @@
-# HG Music Artwork
+# NG Music Artwork
 
 This extension adds the music artwork to the audio listen page (because why isn't this a thing already?).
 
