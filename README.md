@@ -10,10 +10,6 @@ The extension is published on the Mozilla Add-Ons store:
 
 https://addons.mozilla.org/en-US/firefox/addon/ng-music-artwork/
 
-> ### NOTE
-> The extension is currently **being verified by the folks at Mozilla**. For that time, the link will not work.
-> I will remove this warning when the extension will be validated and published on Mozilla Add-Ons.
-
 ### On Chrome, Brave, and others
 
 It is unfortunately not possible for me to publish it to the Google Chrome Webstore, because I don't want to pay the $5 fee AND still have to show Google my government ID to publish a f*cking extension, WHYY??
