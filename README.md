@@ -26,7 +26,7 @@ The only way to get it is this one:
 8. Disable developer mode
 
 > ### WARNING
-> **This may not work on some systems (personally, Brave on Linux worked fine but not Brave on Windows) so maybe you'll have to follow these steps:
+> **This may not work on some systems** (personally, Brave on Linux worked fine but not Brave on Windows) so maybe you'll have to follow these steps:
 > https://developer.chrome.com/docs/extensions/how-to/distribute/install-extensions
 > I don't make up the rules, it's just Google's crap again... Perhaps I'll be developping a userscript version soon or later...
 
