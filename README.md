@@ -14,7 +14,7 @@ https://addons.mozilla.org/en-US/firefox/addon/ng-music-artwork/
 
 It is unfortunately not possible for me to publish it to the Google Chrome Webstore, because I don't want to pay the $5 fee AND still have to show Google my government ID to publish a f*cking extension, WHYY??
 
-The only way to get it is this one:
+There are two ways to work around this, here's the first:
 
 1. Open [`chrome://extensions`](chrome://extensions)
 2. Enable "Developer mode"
@@ -25,13 +25,18 @@ The only way to get it is this one:
 7. Click the triple dots and select "keep this extension"
 8. Disable developer mode
 
-> ### WARNING
-> **This may not work on some systems** (personally, Brave on Linux worked fine but not Brave on Windows) so maybe you'll have to follow these steps:
-> https://developer.chrome.com/docs/extensions/how-to/distribute/install-extensions
-> I don't make up the rules, it's just Google's crap again... Perhaps I'll be developping a userscript version soon or later...
+However, **this may not work on some systems** (personally, Brave on Linux worked fine but not Brave on Windows) so instead here's method 2:
+
+1. Open [`chrome://extensions`](chrome://extensions)
+2. Enable "Developer mode"
+3. Download the [repo as a ZIP file](https://github.com/0xEAF/NG-Music-Artwork/archive/refs/heads/main.zip)
+4. Extract the ZIP file anywhere
+6. Click "Load unpacked extension"
+7. Select the extracted folder and click OK
+8. **Do NOT disable developer mode, ever** (which, I think, shouldn't even be a problem in most cases if you aren't stupid)
 
 > ### NOTE
-> You will have to do this at each update, and there is no way to automatically check for one or update the extension automatically.
+> You will have to do one of these methods at each update, and there is no way to automatically check for one or update the extension automatically.
 
 ### For Opera and Edge
 
